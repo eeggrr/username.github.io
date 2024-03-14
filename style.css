@@ -1,0 +1,129 @@
+body{
+	font-family: Arial, sans-serif ;
+	margin: 0 ;
+	padding: 0 ;
+	background-color: #FFFFFF;
+
+}
+
+h1{
+	color: #2328B0;
+}
+
+.header{
+	background-color: #A7B5C4 ;
+	color: #FFF;
+	padding: 10px;
+}
+
+.logo{
+	margin-right: 15px;
+	color: #2328B0;
+	font-size: 24px;
+}
+
+.title{
+	margin: 10px;
+}
+
+.menu{
+	list-style-type: none;
+	font-size: 23px;
+}
+
+.menu-elemets{
+	display: inline;
+	margin-right: 25px;
+}
+
+.menu-elemets__link{
+	text-decoration: none;
+	color: #2328B0;
+}
+
+.name{
+	text-align: center;
+}
+
+.description{
+	text-align: center;
+}
+
+.information{
+	margin: 10px;
+}
+
+.header-center{
+	font-size: 30px;
+}
+
+.tabl1{
+	width: 100%;
+	border-collapse: collapse;
+	margin-bottom: 20px;
+	font-size: 20px;
+}
+
+.tabl2{
+	width: 100%;
+	border-collapse: collapse;
+	margin-bottom: 20px;
+	font-size: 20px;
+}
+
+th{
+	background-color: #91BFF2;
+	font-weight: bold;
+	text-align: left;
+}
+
+.tabl1 td{
+	padding: 10px;
+	border: 1px solid #DDD;
+}
+
+.tabl2 td{
+	padding: 10px;
+	border: 1px solid #DDD;
+}
+
+.photo{
+	display: flex;
+	flex-wrap: wrap;
+	justify-content: center;
+}
+
+.photo img{
+	max-width: 50%;
+	height: auto;
+	margin: 10px;
+}
+
+.information{
+	font-size: 24px;
+	margin: 10px;
+}
+
+footer{
+	background-color: #A7B5C4;
+	color: #2328B0;
+	padding: 10px;
+	text-align: center;
+}
+
+.socials{
+	margin-right: 25px;
+}
+
+.socials-elemets{
+	display: inline;
+	margin-right: 25px;
+}
+
+.socials-elemets__link{
+	color: #2328B0;
+}
+
+.facts{
+	font-size: 30px;
+}
