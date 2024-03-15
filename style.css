@@ -100,9 +100,9 @@ th{
 }
 
 .photo{
-	display: flex;
-	flex-wrap: wrap;
-	justify-content: center;
+	overflow: hidden;
+	padding: 2rem;
+	text-align: center;
 }
 
 .photo img{
