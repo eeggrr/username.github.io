@@ -58,9 +58,9 @@ h1{
 }
 
 .tabl1{
-	width: 300px;
+	width: 100%;
 	border-collapse: collapse;
-	margin: auto;
+	flex: auto;
 	font-size: 20px;
 }
 
