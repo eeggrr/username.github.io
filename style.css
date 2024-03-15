@@ -106,9 +106,11 @@ th{
 }
 
 .photo img{
-	max-width: 50%;
-	height: auto;
-	margin: 10px;
+	max-width: 34rem;
+	height: 22rem;
+	display: inline-block;
+	margin: 1rem;
+	width: 100%;
 }
 
 .information{
