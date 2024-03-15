@@ -112,16 +112,13 @@ th{
 }
 
 .photo{
-	position: relative;
-        padding-top: 56.25%;
+        text-align: center;
 }
 
 .photo img{
-	position: absolute;
+	max-width: 100%; 
+	height: auto
         left: 0;
-        top: 0;
-        width: 100%;
-        height: auto;
 }
 
 .information{
