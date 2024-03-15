@@ -112,17 +112,16 @@ th{
 }
 
 .photo{
-	overflow: hidden;
-	padding: 2rem;
-	text-align: center;
+	position: relative;
+        padding-top: 56.25%;
 }
 
 .photo img{
-	max-width: 34rem;
-	height: 22rem;
-	display: inline-block;
-	margin: 1rem;
-	width: 100%;
+	position: absolute;
+        left: 0;
+        top: 0;
+        width: 100%;
+        height: auto;
 }
 
 .information{
